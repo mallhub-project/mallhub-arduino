@@ -1,2 +1,2 @@
-# mallhub-arduino
-Código para inserção do arduino no banco de dados na nuvem Azure
+# api-arduino
+API de Aquisição de Dados com Arduino - adaptado possibilitando inserção de dados em Nuvem
